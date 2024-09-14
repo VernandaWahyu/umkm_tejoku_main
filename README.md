@@ -10,7 +10,7 @@ composer install
 ```
 Buat `.env` file by copying `.env.example` file
 
-Generate Artisan Key (If needed) -
+Generate Artisan Key (jika membutuhkan key) -
 ```console
 php artisan key:generate
 ```
